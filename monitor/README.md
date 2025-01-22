@@ -21,6 +21,6 @@ public void changeVariable() {
 ![alt text](thread.gif)
 
 ### 3. Thread Count, Value 값에 경우 MBean을 등록하여 확인했습니다.
-![alt text](<스크린샷 2025-01-22 오후 4.25.48.png>)
+![alt text](mbean-1.png)
 실시간으로 값이 변하진 않았고, Refresh 버튼을 통해서 변한 값을 확인할 수 있었습니다.
 Prometheus + Grafana + JMX Exporter를 통해서 실시간으로 확인할 수 있는지 다시 한번 해볼 계획입니다.
