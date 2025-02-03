@@ -3,7 +3,7 @@
 ### 1. 스케쥴링 구현
 https://github.com/koeyhnujeel/scheduling
 
-### 2. 소켓을 http 통신 구현
+### 2. 소켓 http 통신 구현
 https://github.com/koeyhnujeel/socket
 
 ### 3. JMX를 이용한 모니터링 구현
